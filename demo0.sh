@@ -1,2 +1,0 @@
-echo "First demo"
-
